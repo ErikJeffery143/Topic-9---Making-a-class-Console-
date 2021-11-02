@@ -29,7 +29,7 @@ namespace Topic_9___Making_a_class__Console_
                 Console.WriteLine("Enter the Student's first name");
                 string firstname = Console.ReadLine();
 
-                Console.WriteLine("Student's last name");
+                Console.WriteLine("Student's last name.");
                 string lastname = Console.ReadLine();
 
                 students.Add(new Student(firstname, lastname));
