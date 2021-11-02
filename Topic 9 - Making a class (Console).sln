@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 9 - Making a class (Console)", "Topic 9 - Making a class (Console).csproj", "{C6D23244-AA20-44D2-A8BC-55CCEB194115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D23244-AA20-44D2-A8BC-55CCEB194115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D23244-AA20-44D2-A8BC-55CCEB194115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D23244-AA20-44D2-A8BC-55CCEB194115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D23244-AA20-44D2-A8BC-55CCEB194115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A59AE5-6DF6-4EFD-AB40-810012232F13}
+	EndGlobalSection
+EndGlobal
